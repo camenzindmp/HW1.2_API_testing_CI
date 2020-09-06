@@ -43,5 +43,4 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-
-add -f artifacts/app-mbank.jar
+!artifacts/app-mbank.jar
